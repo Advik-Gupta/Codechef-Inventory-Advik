@@ -16,14 +16,14 @@ import store from "./store/store";
 
 import Home from "./routes/home/home.component";
 import ProductPage from "./routes/product-page/product-page.component";
-import Cart from "./routes/cart/cart.component";
+import Login from "./routes/login/login.component";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path="/" element={<App />}>
       <Route index={true} path="/" element={<Home />} />
       <Route path="/product/:id" element={<ProductPage />} />
-      <Route path="/cart" element={<Cart />} />
+      <Route path="/login" element={<Login />} />
     </Route>
   )
 );
