@@ -1,5 +1,7 @@
 This project is based on MERN Stack
 
+It uses MongoDB database and an express server using the MVC (Model-view-controller) pattern
+
 <img width="918" alt="image" src="https://github.com/user-attachments/assets/b2fb47f6-c142-413e-8f58-0ca01c8ee0e7" />
 
 <img width="930" alt="image" src="https://github.com/user-attachments/assets/4050551f-4bbe-42d1-b0a7-5fefd3dc0969" />
